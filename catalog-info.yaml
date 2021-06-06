@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ss
+  description: sss
+  annotations:
+    github.com/project-slug: Paridhi-Mohindra/react-boilerplate
+spec:
+  type: website
+  lifecycle: experimental
+  owner: Paridhi-Mohindra
